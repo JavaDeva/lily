@@ -1,4 +1,5 @@
 public class lesia {
-  String name;
-
+    String name;
+    double age = 2.14;
+    String Norway;
 }
